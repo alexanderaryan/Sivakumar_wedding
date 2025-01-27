@@ -541,6 +541,14 @@ h1, h2, h3, h4, h5, h6, figure {
   transition: 0.4s ease-in-out;
 }
 
+.hide-overlay-english {
+  display: none;
+}
+
+.hide-overlay-tamil {
+  display: none;
+}
+
 .timeline {
   list-style: none;
   padding: 20px 0 20px;
